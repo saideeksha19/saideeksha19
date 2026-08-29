@@ -257,10 +257,4 @@ I want to build systems that are:
 
 ### ✦ Where curiosity meets code, and code meets intelligence.
 
-<br>
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://komarev.com/ghpvc/?username=saideeksha19&icon=0&color=0" alt="Profile Views" />
-</a>
-
 </div>
