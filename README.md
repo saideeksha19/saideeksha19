@@ -1,188 +1,259 @@
-<div align="center">✦ Hey, I'm Sai Deeksha D
+<div align="center">
 
-"AI/ML Engineer in the Making" · "Full-Stack Developer" · "AI Explorer"
+# ✦ Hey, I'm Sai Deeksha D
 
-<br>«Building at the intersection of Intelligence, Engineering & Imagination.»
+### AI/ML Engineer in the Making · Full-Stack Developer · AI Explorer
 
-I build software that thinks, adapts, and solves.
+<br>
 
-</div>---
+> ### Building at the intersection of Intelligence, Engineering & Imagination.
 
-🧠 About Me
+### I build software that thinks, adapts, and solves.
 
-I'm an aspiring AI/ML-focused Software Engineer passionate about turning ideas into intelligent, usable products.
+</div>
 
-I explore the space where Artificial Intelligence meets Software Engineering — building applications that can understand, analyze, assist, and interact.
+---
+
+# 🧠 About Me
+
+I'm an aspiring **AI/ML-focused Software Engineer** passionate about turning ideas into intelligent, usable products.
+
+I explore the space where **Artificial Intelligence meets Software Engineering** — building applications that can **understand, analyze, assist, and interact**.
 
 I'm especially interested in:
 
-"Generative AI" · "Machine Learning" · "LLMs" · "AI Engineering" · "Full-Stack Development" · "Intelligent Systems"
+**Generative AI** · **Machine Learning** · **LLMs** · **AI Engineering** · **Full-Stack Development** · **Intelligent Systems**
 
-«I believe technology becomes meaningful when intelligence meets imagination.»
+> *I believe technology becomes meaningful when intelligence meets imagination.*
 
 ---
 
-⚡ My Philosophy
+# ⚡ My Philosophy
 
-Question  →  Experiment  →  Build  →  Break  →  Learn  →  Rebuild
+<div align="center">
+
+### Question → Experiment → Build → Break → Learn → Rebuild
+
+</div>
 
 I’m constantly exploring the space between:
 
-"This could be useful."
+> **"This could be useful."**
+
 and
-"Let's actually build it."
 
-«Where curiosity meets code, and code meets intelligence.»
+> **"Let's actually build it."**
 
----
-
-💻 Tech Stack
-
-🧩 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,mysql" />
-</p>🤖 AI & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
-</p>Machine Learning · Generative AI · LLMs · Hugging Face Transformers · Google Gemini
-
-🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs" />
-</p>React · Next.js · Vite · Tailwind CSS · Framer Motion · React Three Fiber
-
-⚙️ Backend & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</p>REST APIs · Backend Systems · API Integration
-
-📊 Data & Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>NumPy · Pandas · Matplotlib · MongoDB · Mongoose · MySQL
-
-🔐 Security
-
-OWASP · Secure Coding · Vulnerability Detection · AI Security Analysis
-
-🛠️ Developer Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma" />
-</p>GitHub Actions · Development Workflows · Deployment
+> *Where curiosity meets code, and code meets intelligence.*
 
 ---
 
-✨ What I Like Building
+# 💻 Tech Stack
+
+### 🧩 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,mysql" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn" />
+</p>
+
+**Machine Learning** · **Generative AI** · **LLMs** · **Hugging Face Transformers** · **Google Gemini**
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,threejs" />
+</p>
+
+**React** · **Next.js** · **Vite** · **Tailwind CSS** · **Framer Motion** · **React Three Fiber**
+
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+**REST APIs** · **Backend Systems** · **API Integration**
+
+### 📊 Data & Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+**NumPy** · **Pandas** · **Matplotlib** · **MongoDB** · **Mongoose** · **MySQL**
+
+### 🔐 Security
+
+**OWASP** · **Secure Coding** · **Vulnerability Detection** · **AI Security Analysis**
+
+### 🛠️ Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma" />
+</p>
+
+**GitHub Actions** · **Development Workflows** · **Deployment**
+
+---
+
+# ✨ What I Like Building
 
 <table>
 <tr>
-<td width="33%" align="center">🧠 AI that understands
+
+<td width="33%" align="center">
+
+### 🧠 AI that understands
 
 Turning data, models, and LLMs into intelligent applications.
 
-</td><td width="33%" align="center">✨ Interfaces that feel alive
+</td>
+
+<td width="33%" align="center">
+
+### ✨ Interfaces that feel alive
 
 Creating interactive and thoughtful digital experiences.
 
-</td><td width="33%" align="center">⚙️ Systems that solve
+</td>
+
+<td width="33%" align="center">
+
+### ⚙️ Systems that solve
 
 Building practical software for real-world problems.
 
 </td>
+
 </tr>
-</table>---
-
-🚀 Featured Projects
-
-🤖 DocFlow AI
-
-«An AI-powered document intelligence platform that uses Google Gemini to help analyze and interact with documents.»
-
-"Generative AI" · "Google Gemini" · "Full-Stack"
+</table>
 
 ---
 
-💻 AI Code Explainer
+# 🚀 Featured Projects
 
-«An AI-powered application that helps developers understand and explain code using intelligent analysis.»
+## 🤖 DocFlow AI
 
-"React" · "TypeScript" · "Vite" · "Gemini API"
+> An AI-powered document intelligence platform that uses **Google Gemini** to help analyze and interact with documents.
 
----
-
-🛡️ CyberShield AI
-
-«An intelligent security dashboard for vulnerability analysis, security insights, and secure software development.»
-
-"Security" · "Vulnerability Analysis" · "Full-Stack"
+**Generative AI** · **Google Gemini** · **Full-Stack**
 
 ---
 
-🔐 LatticeLink
+## 💻 AI Code Explainer
 
-«A secure messaging system exploring modern encryption and post-quantum security concepts.»
+> An AI-powered application that helps developers understand and explain code using intelligent analysis.
 
-"Python" · "Flask" · "Security" · "WebSockets"
-
----
-
-📊 GroupDNA
-
-«A WhatsApp group chat analyzer designed to extract meaningful insights from conversations.»
-
-"Python" · "Data Analysis" · "NLP Concepts"
+**React** · **TypeScript** · **Vite** · **Gemini API**
 
 ---
 
-🔭 Currently Exploring
+## 🛡️ CyberShield AI
 
-🤖 Generative AI Systems
-🧠 LLM-powered Applications
-⚙️ AI Engineering
-🚀 Intelligent Software Products
-🔐 AI & Cybersecurity
-✨ Interactive Web Experiences
+> An intelligent security dashboard for vulnerability analysis, security insights, and secure software development.
+
+**Security** · **Vulnerability Analysis** · **Full-Stack**
 
 ---
 
-📊 GitHub Stats
+## 🔐 LatticeLink
 
-<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=saideeksha19&show_icons=true&theme=tokyonight&hide_border=true" /><img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=saideeksha19&theme=tokyonight&hide_border=true" /><br><br>
+> A secure messaging system exploring modern encryption and post-quantum security concepts.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saideeksha19&layout=compact&theme=tokyonight&hide_border=true" /></div>---
+**Python** · **Flask** · **Security** · **WebSockets**
 
-🌱 Beyond the Code
+---
+
+## 📊 GroupDNA
+
+> A WhatsApp group chat analyzer designed to extract meaningful insights from conversations.
+
+**Python** · **Data Analysis** · **NLP Concepts**
+
+---
+
+# 🔭 Currently Exploring
+
+- 🤖 **Generative AI Systems**
+- 🧠 **LLM-powered Applications**
+- ⚙️ **AI Engineering**
+- 🚀 **Intelligent Software Products**
+- 🔐 **AI & Cybersecurity**
+- ✨ **Interactive Web Experiences**
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=saideeksha19&show_icons=true&theme=tokyonight&hide_border=true"
+/>
+
+<img
+  height="170"
+  src="https://streak-stats.demolab.com?user=saideeksha19&theme=tokyonight&hide_border=true"
+/>
+
+<br/>
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saideeksha19&layout=compact&theme=tokyonight&hide_border=true"
+/>
+
+</div>
+
+---
+
+# 🌱 Beyond the Code
 
 I'm driven by curiosity and the idea that technology should be more than just functional.
 
 I want to build systems that are:
 
-Intelligent. Useful. Creative. Secure. Meaningful.
+> **Intelligent. Useful. Creative. Secure. Meaningful.**
 
-Still learning.
-Still building.
-Still curious. ✨
+### Still learning.  
+### Still building.  
+### Still curious. ✨
 
 ---
 
-🤝 Let's Connect
+# 🤝 Let's Connect
 
-<p align="left"><a href="https://linkedin.com/in/sai-deeksha-d-a033672a5">
-<img src="https://img.shields.io/badge/LinkedIn-Sai%20Deeksha%20D-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a><a href="mailto:saideekshad19@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a><a href="https://github.com/saideeksha19">
-<img src="https://img.shields.io/badge/GitHub-saideeksha19-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a></p>---
+<p align="center">
 
-<div align="center">✦ Where curiosity meets code, and code meets intelligence.
+<a href="https://linkedin.com/in/sai-deeksha-d-a033672a5">
+  <img src="https://img.shields.io/badge/LinkedIn-Sai%20Deeksha%20D-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<br>"Profile Views" (https://komarev.com/ghpvc/?username=saideeksha19&label=Profile%20Views&color=7B68EE&style=flat)
+<a href="mailto:saideekshad19@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/saideeksha19">
+  <img src="https://img.shields.io/badge/GitHub-saideeksha19-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ✦ Where curiosity meets code, and code meets intelligence.
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=saideeksha19&label=Profile%20Views&color=7B68EE&style=flat" />
 
 </div>
