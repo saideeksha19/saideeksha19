@@ -194,20 +194,25 @@ Building practical software for real-world problems.
 <div align="center">
 
 <img
+  src="https://github-readme-stats.shion.dev/api?username=saideeksha19&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false"
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=saideeksha19&show_icons=true&theme=tokyonight&hide_border=true"
-/>
-
-<img
-  height="170"
-  src="https://streak-stats.demolab.com?user=saideeksha19&theme=tokyonight&hide_border=true"
+  alt="Sai Deeksha's GitHub Stats"
 />
 
 <br/>
 
 <img
+  src="https://streak-stats.demolab.com/?user=saideeksha19&theme=graywhite&hide_border=true"
   height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saideeksha19&layout=compact&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
+
+<br/>
+
+<img
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=saideeksha19&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact"
+  height="170"
+  alt="Top Languages"
 />
 
 </div>
@@ -254,6 +259,8 @@ I want to build systems that are:
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=saideeksha19&label=Profile%20Views&color=7B68EE&style=flat" />
+<a href="https://visitcount.itsvg.in">
+  <img src="https://komarev.com/ghpvc/?username=saideeksha19&icon=0&color=0" alt="Profile Views" />
+</a>
 
 </div>
