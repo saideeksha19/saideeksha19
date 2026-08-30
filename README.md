@@ -138,14 +138,6 @@ Building practical software for real-world problems.
 
 # 🚀 Featured Projects
 
-## 🤖 DocFlow AI
-
-> An AI-powered document intelligence platform that uses **Google Gemini** to help analyze and interact with documents.
-
-**Generative AI** · **Google Gemini** · **Full-Stack**
-
----
-
 ## 💻 AI Code Explainer
 
 > An AI-powered application that helps developers understand and explain code using intelligent analysis.
@@ -160,23 +152,7 @@ Building practical software for real-world problems.
 
 **Security** · **Vulnerability Analysis** · **Full-Stack**
 
----
 
-## 🔐 LatticeLink
-
-> A secure messaging system exploring modern encryption and post-quantum security concepts.
-
-**Python** · **Flask** · **Security** · **WebSockets**
-
----
-
-## 📊 GroupDNA
-
-> A WhatsApp group chat analyzer designed to extract meaningful insights from conversations.
-
-**Python** · **Data Analysis** · **NLP Concepts**
-
----
 
 # 🔭 Currently Exploring
 
